@@ -1,0 +1,65 @@
+header {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+.box {
+    display: flex;
+    justify-content: space-around;
+    height: 300px;
+}
+
+.mainnumber {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 2 1 auto;
+}
+
+
+.flexcontainer {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    margin: 30px;
+}
+
+.number1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    width: 200px;
+
+}
+
+.number2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    width: 200px;
+}
+
+.number3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    width: 400px;
+}
+
+aside {
+    display: flex;
+    flex: 1 1 auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.footerbox {
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
